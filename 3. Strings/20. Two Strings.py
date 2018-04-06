@@ -1,5 +1,3 @@
-from collections import Counter as c
-
 t = int(input())
 
 for _ in range(t):
