@@ -4,7 +4,7 @@ Hackerrank Algorithm Solutions in python, java
 
 # Solution of Hackerrank problems
 
-## **1.Warmup**
+## **1. Warmup**
 
 [01.Solve Me First](https://github.com/BhanukaUOM/Hackerrank-Algorithm-Solutions/blob/master/1.%20Warmup/01.%20Solve%20Me%20First.py)
 
